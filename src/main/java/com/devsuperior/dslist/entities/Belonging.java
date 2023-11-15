@@ -9,7 +9,7 @@ import java.util.Objects;
 @Table(name = "tb_belonging")
 public class Belonging {
     @EmbeddedId
-    private BelongingPK id = new BelongingPK();
+    private BelongingPK id = new BelongingPK(); //game_id e list_id agora são colunas da tabela tb_belonging
     private Integer position;
 
     public Belonging(){
