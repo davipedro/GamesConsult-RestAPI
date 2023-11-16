@@ -15,7 +15,6 @@ public class GameDTO {
     private String longDescription;
 
     public GameDTO(){
-
     }
 
     public GameDTO(Game entity) {
