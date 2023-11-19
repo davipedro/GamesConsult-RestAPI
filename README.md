@@ -18,7 +18,7 @@ Este projeto foi desenvolvido durante o Intensivão Java Spring, ministrado pelo
 
 O projeto foi implementado em três perfis de ambiente, correspondentes ao ciclo de vida de desenvolvimento:
 
-Teste: Ambiente local com o banco H2;
-Homologação: Ambiente local com o banco PostgreSQL e container Docker;
-Produção: Ambiente na nuvem com RailWay e Postgres;
++ Teste: Ambiente local com o banco H2;
++ Homologação: Ambiente local com o banco PostgreSQL e container Docker;
++ Produção: Ambiente na nuvem com RailWay e Postgres;
 
